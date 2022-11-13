@@ -2,15 +2,12 @@ body{
   font-family: "Montserrat"
 }
 
-/* ktu e dua shkrimin pak me djathas*/
 
 h1{
   font-family: "Montserrat-black";
   text-align: center;
   font-size: 4rem;
   width: 60%;
-  position: static;
-  padding-bottom: 4rem;
 
 }
 
